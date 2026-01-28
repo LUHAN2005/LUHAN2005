@@ -1,9 +1,9 @@
 ## LUHAN2005 👋
 
-## Bug slayer in training 🐛⚔️
+Bug slayer in training 🐛⚔️
 Học mỗi ngày một chút — commit mỗi ngày một bước.
 
-✨ Giới thiệu nhanh
+## ✨ Giới thiệu nhanh
 
 🌱 Đang học: HTML · CSS · JavaScript (sửa theo bạn)
 
@@ -11,10 +11,8 @@ Học mỗi ngày một chút — commit mỗi ngày một bước.
 
 🎯 Tập trung: nền tảng vững + thói quen ship đều đặn
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 📌 Dự án nổi bật
-
-Bạn thay bằng project thật của bạn (hoặc để trống rồi bổ sung sau).
 
 🔥 Project 1 — mô tả 1 dòng (link)
 
@@ -22,8 +20,8 @@ Bạn thay bằng project thật của bạn (hoặc để trống rồi bổ su
 
 🚀 Project 3 — mô tả 1 dòng (link)
 
-📊 GitHub Stats
-🗺️ Roadmap (để bạn có động lực)
+## 📊 GitHub Stats
+
 
 
 
