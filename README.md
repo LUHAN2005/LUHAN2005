@@ -1,7 +1,6 @@
-## Hi there 👋
-LUHAN2005 👋
+## LUHAN2005 👋
 
-Bug slayer in training 🐛⚔️
+## Bug slayer in training 🐛⚔️
 Học mỗi ngày một chút — commit mỗi ngày một bước.
 
 ✨ Giới thiệu nhanh
