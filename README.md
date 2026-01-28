@@ -1,16 +1,38 @@
 ## Hi there 👋
+LUHAN2005 👋
 
-<!--
-**LUHAN2005/LUHAN2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bug slayer in training 🐛⚔️
+Học mỗi ngày một chút — commit mỗi ngày một bước.
 
-Here are some ideas to get you started:
+✨ Giới thiệu nhanh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Đang học: HTML · CSS · JavaScript (sửa theo bạn)
+
+🧩 Mục tiêu: làm mini projects để lên tay
+
+🎯 Tập trung: nền tảng vững + thói quen ship đều đặn
+
+🧰 Tech Stack
+📌 Dự án nổi bật
+
+Bạn thay bằng project thật của bạn (hoặc để trống rồi bổ sung sau).
+
+🔥 Project 1 — mô tả 1 dòng (link)
+
+✨ Project 2 — mô tả 1 dòng (link)
+
+🚀 Project 3 — mô tả 1 dòng (link)
+
+📊 GitHub Stats
+🗺️ Roadmap (để bạn có động lực)
+
+
+
+
+📫 Liên hệ
+
+📧 Email: nguyenphan10042005@gmail.com
+
+🌍 Location: Việt Nam
+
+Mỗi lần gặp bug là một lần lên level 🐛➡️🧠
